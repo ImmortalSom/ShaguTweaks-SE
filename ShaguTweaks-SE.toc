@@ -1,0 +1,13 @@
+## Interface: 11200
+## Title: |cffffcc00Shagu|cffffffffTweaks |cffcccccc[Secondary Extras]
+## Author: PanSom
+## Notes: Compare
+## Version: GIT
+## Dependencies: ShaguTweaks
+
+# core
+main.lua
+
+# modules
+mods\equip-compare.lua
+mods\actionbar-improved-expbar.lua
