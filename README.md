@@ -1,1 +1,1 @@
-# ShaguTweaks-compare
+# ShaguTweaks-SE
