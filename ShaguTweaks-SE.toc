@@ -11,3 +11,5 @@ main.lua
 # modules
 mods\equip-compare.lua
 mods\actionbar-improved-expbar.lua
+mods\minimap-framerate-latency.lua
+mods\actionbar-range-color.lua
